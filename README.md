@@ -6,8 +6,7 @@ A simple and convenient Python client for the OpenWeatherMap API. This package p
 
 ## Features
 
-- 🌤️ Get current weather by city name, coordinates, or ZIP code
-- 📅 5-day weather forecast with 3-hour intervals
+- 🌤️ Get current weather by city name
 - 🎯 Easy-to-use interface with error handling
 - 🔧 Configurable units and language settings
 - ⚡ Async support available
@@ -24,5 +23,6 @@ pip install openweather-api
 
 ## Links
 [TestPyPi](https://test.pypi.org/project/openweather-api/0.1.1/)
+
 
 
