@@ -22,7 +22,7 @@ pip install openweather-api
 
 
 ## Links
-[TestPyPi](https://test.pypi.org/project/openweather-api/0.1.1/)
+[openweather-api 0.1.1](https://test.pypi.org/project/openweather-api/0.1.1/)
 
 
 ---
@@ -68,5 +68,6 @@ pip install openweather-api
 Но она не влияло на работоспособность (проверка)
 
 <img width="1811" height="396" alt="image" src="https://github.com/user-attachments/assets/40a1de59-a2e1-4b43-bee1-7c16d1642e97" />
+
 
 
